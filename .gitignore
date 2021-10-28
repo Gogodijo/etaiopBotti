@@ -1,0 +1,5 @@
+.env
+/node_modules/
+data.csv
+data2.csv
+.idea
